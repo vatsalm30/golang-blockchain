@@ -1,7 +1,7 @@
 package main
 
 import (
-	"blockchain"
+	"github.com/vatsalm30/golang-blockchain/blockchainn"
 	"fmt"
 )
 
